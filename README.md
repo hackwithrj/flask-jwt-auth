@@ -1,0 +1,1 @@
+Simple flask poc to demonstrate JWT access token and refresh token and uses the APIs based on the freshness of the access token
